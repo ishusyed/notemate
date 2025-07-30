@@ -1,0 +1,2 @@
+C:/Users/ishwa/notemate/android/app/.cxx/Debug/c5k1r1x1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ishwa/notemate/android/app/.cxx/Debug/c5k1r1x1/x86_64/CMakeFiles/rebuild_cache.dir

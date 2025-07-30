@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264290447726",
+    "project_id": "notemate-66306",
+    "storage_bucket": "notemate-66306.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264290447726:android:4878579f00c7a39e3f517f",
+        "android_client_info": {
+          "package_name": "com.example.notemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJd3pfVPkdYVdRQ729hLuoPJGvKZkwFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
